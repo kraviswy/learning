@@ -2,7 +2,7 @@
 
 #### Description
 learning git
-Creating a new branch is quick.
+Creating a new branch is quick and simple.
 
 #### Software Architecture
 Software architecture description
